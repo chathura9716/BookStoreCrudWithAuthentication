@@ -1,0 +1,28 @@
+.register-page {
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+    align-items: center;
+    height: 90.5vh;
+    background-image: url("https://img.freepik.com/free-vector/geometric-gradient-futuristic-background_23-2149116406.jpg?w=1060&t=st=1707482151~exp=1707482751~hmac=64d1431da096e67bfdaac95daedb3e000170103f5d6c1f944606ad0a5f4069dc");
+    background-size: cover;
+  }
+  
+  .register-form {
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .register-form-button {
+    width: 100%;
+  }
+  .register-header {
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    
+  }

@@ -1,0 +1,13 @@
+.container {
+  height: "100vh";
+  margin: auto;
+  padding: 20px;
+}
+.mb-3 {
+  margin-bottom: 20px;
+}
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+}

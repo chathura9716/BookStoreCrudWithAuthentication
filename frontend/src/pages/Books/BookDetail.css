@@ -1,0 +1,39 @@
+/* BookDetail.css */
+
+.book-details-modal .ant-modal-content {
+  background-color: #f8f9fa;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.book-details-modal .ant-modal-header {
+  background-color: #007bff;
+  color: #fff;
+  border-bottom: none;
+  border-radius: 10px 10px 0 0;
+}
+
+.book-details-modal .ant-modal-title {
+  margin-bottom: 0;
+}
+
+.book-details-modal .ant-modal-body {
+  padding: 20px;
+}
+
+.book-details-modal .ant-modal-footer {
+  background-color: #f8f9fa;
+  border-top: none;
+  border-radius: 0 0 10px 10px;
+}
+
+.book-details-modal .ant-btn-secondary {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.book-details-modal .ant-btn-secondary:hover {
+  background-color: #5a6268;
+}
+
+
