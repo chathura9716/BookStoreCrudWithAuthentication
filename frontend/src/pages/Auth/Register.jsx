@@ -1,7 +1,7 @@
 import React from "react";
 import { Form, Input, Button, message } from "antd";
 import { UserOutlined, LockOutlined } from "@ant-design/icons";
-import "./Register.css"; // You can style this as you like
+import "./Register.css"; 
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
